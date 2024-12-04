@@ -1,6 +1,6 @@
 # Online Voting System Project in PHP with Source Code
 
-The **Online Voting System Project in PHP** is a simple system developed PHP MySQL database, Using HTML, CSS, Bootstrap, JavaScript, Ajax, J Query, and Modal.
+The **Online Voting System Project is a simple system developed PHP MySQL database, Using HTML, CSS, Bootstrap, JavaScript, Ajax, J Query, and Modal.** 
 
 The main purpose of the **Voting System Project in PHP** is to count the vote, the voting system has an admin and user, the admin can control and manage the user, and the user is represented as a voter.
 
